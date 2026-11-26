@@ -57,15 +57,39 @@ của mạng nơ-ron đã huấn luyện.
 
 ## 7. Tài liệu tham khảo
 
-1. Coifman, R. R., & Lafon, S. (2006).
-   Diffusion Maps. Applied and Computational Harmonic Analysis,
-   21(1), 5–30.
-   https://doi.org/10.1016/j.acha.2006.04.006
+[1] Tenenbaum, J. B., de Silva, V., & Langford, J. C. (2000).
+A global geometric framework for nonlinear dimensionality reduction.
+*Science*, 290(5500), 2319–2323.
 
-2. Van der Maaten, L., & Hinton, G. (2008).
-   Visualizing Data using t-SNE.
-   Journal of Machine Learning Research, 9, 2579–2605.
+[2] Lorenz, E. N. (2017).
+Deterministic nonperiodic flow.
+In *Universality in Chaos* (2nd ed., pp. 367–378). Routledge.
 
-3. García-Heredia, S., Alaíz, C. M., & Fernández, Á. (2025).
-   Deep Diffusion Maps.
-   https://arxiv.org/abs/2505.06087
+[3] Hotelling, H. (1933).
+Analysis of a complex of statistical variables into principal components.
+*Journal of Educational Psychology*, 24(6), 417.
+
+[4] Roweis, S. T., & Saul, L. K. (2000).
+Nonlinear dimensionality reduction by locally linear embedding.
+*Science*, 290(5500), 2323–2326.
+
+[5] Van der Maaten, L., & Hinton, G. (2008).
+Visualizing data using t-SNE.
+*Journal of Machine Learning Research*, 9(11).
+
+[6] Van der Maaten, L., Postma, E. O., Van den Herik, H. J., et al. (2009).
+Dimensionality reduction: A comparative review.
+*Journal of Machine Learning Research*, 10(1), 1–41.
+
+[7] Coifman, R. R., & Lafon, S. (2006).
+Diffusion maps.
+*Applied and Computational Harmonic Analysis*, 21(1), 5–30.
+
+[8] LeCun, Y., Bottou, L., Bengio, Y., & Haffner, P. (1998).
+Gradient-based learning applied to document recognition.
+*Proceedings of the IEEE*, 86(11), 2278–2324.
+
+[9] García-Heredia, S., Fernández, Á., & Alaíz, C. M. (2025).
+Deep Diffusion Maps.
+*arXiv preprint arXiv:2505.06087*.
+https://arxiv.org/abs/2505.06087
